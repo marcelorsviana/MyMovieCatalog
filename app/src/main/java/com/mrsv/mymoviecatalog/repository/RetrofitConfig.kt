@@ -1,6 +1,5 @@
 package com.mrsv.mymoviecatalog.repository
 
-import com.mrsv.mymoviecatalog.interfaces.IServices
 import com.mrsv.mymoviecatalog.utils.Constants.Companion.BASE_URL
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
